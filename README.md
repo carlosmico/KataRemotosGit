@@ -1,3 +1,3 @@
 # KataRemotosGit
 
-#edicion
+# edicion
